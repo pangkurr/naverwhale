@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/naverwhale/static/css/main.98f73604.css",
-    "main.js": "/naverwhale/static/js/main.28b5ff88.js",
+    "main.js": "/naverwhale/static/js/main.c7ae40d5.js",
     "static/js/787.6e741cbf.chunk.js": "/naverwhale/static/js/787.6e741cbf.chunk.js",
     "static/media/sw1_gif5.gif": "/naverwhale/static/media/sw1_gif5.2d9ac1679422ed66e3b9.gif",
     "static/media/sw1_gif1.gif": "/naverwhale/static/media/sw1_gif1.3871282d0bcdba0ae2a3.gif",
@@ -25,11 +25,11 @@
     "static/media/download.gif": "/naverwhale/static/media/download.c0d0127b7310c8678a79.gif",
     "index.html": "/naverwhale/index.html",
     "main.98f73604.css.map": "/naverwhale/static/css/main.98f73604.css.map",
-    "main.28b5ff88.js.map": "/naverwhale/static/js/main.28b5ff88.js.map",
+    "main.c7ae40d5.js.map": "/naverwhale/static/js/main.c7ae40d5.js.map",
     "787.6e741cbf.chunk.js.map": "/naverwhale/static/js/787.6e741cbf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.98f73604.css",
-    "static/js/main.28b5ff88.js"
+    "static/js/main.c7ae40d5.js"
   ]
 }
